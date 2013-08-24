@@ -1,0 +1,819 @@
+TSlideShow
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Info.plist SlideShow/SlideShow-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/ResourceRules.plist
+cProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/PrecompiledHeaders/SlideShow-Prefix-gvlyooharqzmtwgsankhgbamuwvi/SlideShow-Prefix.pch.pth SlideShow/SlideShow-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/ViewController.o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/AppDelegate.o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/SlideShow normal armv7
+cGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app.dSYM /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/SlideShow
+cCopyStringsFile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/en.lproj/InfoPlist.strings SlideShow/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default.png SlideShow/Default.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default@2x.png SlideShow/Default@2x.png
+cCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default-568h@2x.png SlideShow/Default-568h@2x.png
+cCompileStoryboard /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/en.lproj/MainStoryboard.storyboard
+cCpResource "SlideShow/Dolice Graphics/7thVision.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/7thVision.jpg
+cCpResource "SlideShow/Dolice Graphics/AngelsBone.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/AngelsBone.jpg
+cCpResource "SlideShow/Dolice Graphics/Asymmetry.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Asymmetry.jpg
+cCpResource "SlideShow/Dolice Graphics/Beelzebub.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Beelzebub.jpg
+cCpResource "SlideShow/Dolice Graphics/cintaamaNicakra.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/cintaamaNicakra.jpg
+cCpResource "SlideShow/Dolice Graphics/Echidna.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Echidna.jpg
+cCpResource "SlideShow/Dolice Graphics/El.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/El.jpg
+cCpResource "SlideShow/Dolice Graphics/Frigg.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Frigg.jpg
+cCpResource "SlideShow/Dolice Graphics/Heimatlos.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Heimatlos.jpg
+cCpResource "SlideShow/Dolice Graphics/Hera.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hera.jpg
+cCpResource "SlideShow/Dolice Graphics/Hesychasm.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hesychasm.jpg
+cCpResource "SlideShow/Dolice Graphics/Hirume.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hirume.jpg
+cCpResource "SlideShow/Dolice Graphics/Icon.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Icon.jpg
+cCpResource "SlideShow/Dolice Graphics/Isthar.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Isthar.jpg
+cCpResource "SlideShow/Dolice Graphics/Lilit.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Lilit.jpg
+cCpResource "SlideShow/Dolice Graphics/Loki.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Loki.jpg
+cCpResource "SlideShow/Dolice Graphics/Maldoror.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Maldoror.jpg
+cCpResource "SlideShow/Dolice Graphics/MariaMagdalena.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/MariaMagdalena.jpg
+cCpResource "SlideShow/Dolice Graphics/Nyx.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Nyx.jpg
+cCpResource "SlideShow/Dolice Graphics/Pandora.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Pandora.jpg
+cCpResource "SlideShow/Dolice Graphics/Rain.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Rain.jpg
+cCpResource "SlideShow/Dolice Graphics/samanta-bhadra.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/samanta-bhadra.jpg
+cCpResource "SlideShow/Dolice Graphics/Sarah.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Sarah.jpg
+cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/embedded.mobileprovision
+cTouch /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow.xcent
+cCodeSign /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000051BC19820000000000000110
+t1371281794
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c00000000512CF0E500000000000001A7
+t1361899749
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c00000000512CF0E500000000000001E5
+t1361899749
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000512CF0E80000000000322700
+t1361899752
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000512CF0E9000000000062AD10
+t1361899753
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000512CF0E800000000000015F7
+t1361899752
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000512CF0EA0000000000000E8D
+t1361899754
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000512CF0EE00000000011BCDF0
+t1361899758
+s18599408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c00000000512CF0F20000000000001B73
+t1361899762
+s7027
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/PrecompiledHeaders/SlideShow-Prefix-gvlyooharqzmtwgsankhgbamuwvi/SlideShow-Prefix.pch.pth
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/SlideShow.LinkFileList
+c00000000521816FD0000000000000251
+t1377310461
+s593
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/ViewController.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow.xcent
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app.dSYM
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/7thVision.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/AngelsBone.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Asymmetry.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Beelzebub.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default@2x.png
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Echidna.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/El.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Frigg.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Heimatlos.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hera.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hesychasm.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hirume.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Icon.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Info.plist
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Isthar.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Lilit.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Loki.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Maldoror.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/MariaMagdalena.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Nyx.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Pandora.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/PkgInfo
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Rain.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/ResourceRules.plist
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Sarah.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/SlideShow
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/cintaamaNicakra.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/samanta-bhadra.jpg
+t2
+s0
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/AppDelegate.m
+c000000005161CDCE00000000000007CD
+t1365364174
+s1997
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Default-568h@2x.png
+c000000005161CDCE00000000000048A2
+t1365364174
+s18594
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Default.png
+c000000005161CDCE000000000000198C
+t1365364174
+s6540
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Default@2x.png
+c000000005161CDCE0000000000003EEB
+t1365364174
+s16107
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/7thVision.jpg
+c000000005161CDCE0000000000093A50
+t1365364174
+s604752
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/AngelsBone.jpg
+c000000005161CDCE0000000000099597
+t1365364174
+s628119
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Asymmetry.jpg
+c000000005161CDCE0000000000099CA3
+t1365364174
+s629923
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Beelzebub.jpg
+c000000005161CDCE0000000000082C4B
+t1365364174
+s535627
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Echidna.jpg
+c000000005161CDCE0000000000076F73
+t1365364174
+s487283
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/El.jpg
+c000000005161CDCE000000000007B2A3
+t1365364174
+s504483
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Frigg.jpg
+c000000005161CDCE000000000007609B
+t1365364174
+s483483
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Heimatlos.jpg
+c000000005161CDCE000000000009A7AB
+t1365364174
+s632747
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Hera.jpg
+c000000005161CDCE0000000000065392
+t1365364174
+s414610
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Hesychasm.jpg
+c000000005161CDCE000000000006906F
+t1365364174
+s430191
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Hirume.jpg
+c000000005161CDCE0000000000068FB2
+t1365364174
+s430002
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Icon.jpg
+c000000005161CDCE0000000000108D3C
+t1365364174
+s1084732
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Isthar.jpg
+c000000005161CDCE00000000000843B8
+t1365364174
+s541624
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Lilit.jpg
+c000000005161CDCE0000000000090B50
+t1365364174
+s592720
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Loki.jpg
+c000000005161CDCE0000000000078A62
+t1365364174
+s494178
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Maldoror.jpg
+c000000005161CDCE0000000000056B23
+t1365364174
+s355107
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/MariaMagdalena.jpg
+c000000005161CDCE000000000008C858
+t1365364174
+s575576
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Nyx.jpg
+c000000005161CDCE000000000007D89A
+t1365364174
+s514202
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Pandora.jpg
+c000000005161CDCE00000000000AFA9E
+t1365364174
+s719518
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Rain.jpg
+c000000005161CDCE000000000008294E
+t1365364174
+s534862
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Sarah.jpg
+c000000005161CDCE00000000000950FD
+t1365364174
+s610557
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/cintaamaNicakra.jpg
+c000000005161CDCE0000000000036C87
+t1365364174
+s224391
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/samanta-bhadra.jpg
+c000000005161CDCE00000000000295EF
+t1365364174
+s169455
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/SlideShow-Prefix.pch
+c000000005161CDCE000000000000013D
+t1365364174
+s317
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/ViewController.m
+c000000005161CDCE0000000000001445
+t1365364174
+s5189
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/en.lproj/InfoPlist.strings
+c000000005161CDCE000000000000002D
+t1365364174
+s45
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/en.lproj/MainStoryboard.storyboard
+c000000005161CDCE0000000000000603
+t1365364174
+s1539
+
+N/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/main.m
+c000000005161CDCE000000000000014E
+t1365364174
+s334
+
+N/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision
+c0000000051DBC2130000000000001D36
+t1373356563
+s7478
+
+NSlideShow/SlideShow-Info.plist
+c000000005161CDCE00000000000004D1
+t1365364174
+s1233
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/AppDelegate.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/ViewController.m
+r0
+
+CBuild AST from /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies76ddd77d4ec8b741^5001f07d4ec8b741^---0#1#0#--18"Check dependencies36"3295E0D7-356B-4683-BE94-D5FACE8B9C6F-
+
+CCodeSign /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app
+s399003264.880773
+e399003265.587897
+r1
+xCodeSign
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"CodeSign DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.appd09ce1804ec8b741^288096814ec8b741^---0#0#0#-19%DVTDocumentLocation2@157"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/0000000000000000^1073"CodeSign DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 8e72a3bdb14b5665b8d51cbcbab716ec47054420 --resource-rules=/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/ResourceRules.plist --entitlements /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow.xcent /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"77133069-29D0-4505-B143-8E2AAF74D5A5-
+
+CCompileC DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/AppDelegate.o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399003262.947502
+e399003263.186031
+r1
+xCompileC
+xDerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/AppDelegate.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/AppDelegate.m26e1f27e4ec8b741^cf9e2f7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/AppDelegate.m0000000000000000^4248"CompileC DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/AppDelegate.o SlideShow/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/PrecompiledHeaders/SlideShow-Prefix-gvlyooharqzmtwgsankhgbamuwvi/SlideShow-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/AppDelegate.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/AppDelegate.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/AppDelegate.o36"BE341E35-94CE-4514-8252-B292B4278D5F-
+
+CCompileC DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/ViewController.o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399003262.947482
+e399003263.240283
+r1
+xCompileC
+xDerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/ViewController.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/ViewController.mebc3f27e4ec8b741^88823d7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/ViewController.m0000000000000000^4266"CompileC DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/ViewController.o SlideShow/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/PrecompiledHeaders/SlideShow-Prefix-gvlyooharqzmtwgsankhgbamuwvi/SlideShow-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/ViewController.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/ViewController.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/ViewController.o36"FE48D443-6B1A-4F27-A30C-472238F083B2-
+
+CCompileC DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/main.o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399003262.947466
+e399003263.177061
+r1
+xCompileC
+xDerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/main.o
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/main.me7c4f27e4ec8b741^774b2e7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/main.m0000000000000000^4206"CompileC DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/main.o SlideShow/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos -include /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/PrecompiledHeaders/SlideShow-Prefix-gvlyooharqzmtwgsankhgbamuwvi/SlideShow-Prefix.pch -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/main.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/main.m -o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/main.o36"33E076B6-67A4-48C0-A754-66523AFD31E1-
+
+CCompileStoryboard /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/en.lproj/MainStoryboard.storyboard
+s399003263.540921
+e399003264.771926
+r1
+xCompileStoryboard
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"CompileStoryboard SlideShow/en.lproj/MainStoryboard.storyboardd7a18a7f4ec8b741^8d9cc5804ec8b741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/en.lproj/MainStoryboard.storyboard0000000000000000^1016"CompileStoryboard SlideShow/en.lproj/MainStoryboard.storyboard    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/en.lproj/MainStoryboard.storyboardc /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/en.lproj/MainStoryboard.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"DD639FDD-50D5-4CDA-92CF-B72032D91B2F-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default-568h@2x.png SlideShow/Default-568h@2x.png
+s399003263.535388
+e399003263.841342
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default-568h@2x.png
+xSlideShow/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"CopyPNGFile DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default-568h@2x.png SlideShow/Default-568h@2x.pngec31897f4ec8b741^4469d77f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Default-568h@2x.png0000000000000000^786"CopyPNGFile "DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default-568h@2x.png" "SlideShow/Default-568h@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Default-568h@2x.png" "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default-568h@2x.png"36"28631DD8-304D-4884-99A7-5A675E961FC8-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default.png SlideShow/Default.png
+s399003263.535193
+e399003263.740466
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default.png
+xSlideShow/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"CopyPNGFile DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default.png SlideShow/Default.png1022897f4ec8b741^01a1bd7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Default.png0000000000000000^746"CopyPNGFile DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default.png SlideShow/Default.png    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Default.png /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default.png36"F51D92BF-B08D-4610-871D-9248CCCC50F8-
+
+CCopyPNGFile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default@2x.png SlideShow/Default@2x.png
+s399003263.535308
+e399003263.827170
+r1
+xCopyPNGFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default@2x.png
+xSlideShow/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"CopyPNGFile DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default@2x.png SlideShow/Default@2x.png8925897f4ec8b741^dac6d37f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Default@2x.png0000000000000000^766"CopyPNGFile "DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default@2x.png" "SlideShow/Default@2x.png"    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Default@2x.png" "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Default@2x.png"36"5F2C9138-C417-4943-A806-3B2B1F943900-
+
+CCopyStringsFile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/en.lproj/InfoPlist.strings SlideShow/en.lproj/InfoPlist.strings
+s399003263.535179
+e399003263.539570
+r1
+xCopyStringsFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/en.lproj/InfoPlist.strings
+xSlideShow/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy SlideShow/en.lproj/InfoPlist.strings3e23897f4ec8b741^58208a7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/en.lproj/InfoPlist.strings0000000000000000^696"CopyStringsFile DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/en.lproj/InfoPlist.strings SlideShow/en.lproj/InfoPlist.strings    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/en.lproj -- SlideShow/en.lproj/InfoPlist.strings36"0F045BDA-4F3F-4D06-97B9-7B04523D25A9-
+
+CCpResource "SlideShow/Dolice Graphics/7thVision.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/7thVision.jpg
+s399003263.741770
+e399003263.757794
+r1
+xCpResource
+xSlideShow/Dolice Graphics/7thVision.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/7thVision.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/7thVision.jpg7502be7f4ec8b741^fd11c27f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/7thVision.jpg000000000080d041^773"CpResource "SlideShow/Dolice Graphics/7thVision.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/7thVision.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/7thVision.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"495A6037-28F2-4DFA-816C-A9CF09081334-
+
+CCpResource "SlideShow/Dolice Graphics/AngelsBone.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/AngelsBone.jpg
+s399003263.759106
+e399003263.773870
+r1
+xCpResource
+xSlideShow/Dolice Graphics/AngelsBone.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/AngelsBone.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/AngelsBone.jpgf374c27f4ec8b741^e02bc67f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/AngelsBone.jpg000000000080d041^776"CpResource "SlideShow/Dolice Graphics/AngelsBone.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/AngelsBone.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/AngelsBone.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"E803F667-10BD-4BD8-BFCA-ADECE660B8B8-
+
+CCpResource "SlideShow/Dolice Graphics/Asymmetry.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Asymmetry.jpg
+s399003263.775186
+e399003263.790333
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Asymmetry.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Asymmetry.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Asymmetry.jpg3690c67f4ec8b741^9e07cb7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Asymmetry.jpg000000000080d041^773"CpResource "SlideShow/Dolice Graphics/Asymmetry.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Asymmetry.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Asymmetry.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"C381FBBC-781E-463B-8D53-261D7DC9864D-
+
+CCpResource "SlideShow/Dolice Graphics/Beelzebub.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Beelzebub.jpg
+s399003263.795231
+e399003263.809983
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Beelzebub.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Beelzebub.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Beelzebub.jpg8eb1cb7f4ec8b741^e962cf7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Beelzebub.jpg000000000080d041^773"CpResource "SlideShow/Dolice Graphics/Beelzebub.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Beelzebub.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Beelzebub.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"F4C6BA1B-58AE-4B5B-853C-F14BEAFF9419-
+
+CCpResource "SlideShow/Dolice Graphics/Echidna.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Echidna.jpg
+s399003263.826256
+e399003263.845809
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Echidna.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Echidna.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Echidna.jpg50a8d37f4ec8b741^f033da7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Echidna.jpg000000000080d041^767"CpResource "SlideShow/Dolice Graphics/Echidna.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Echidna.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Echidna.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"C1FE1A97-75DC-40A4-8F1F-E0B6F18C0A02-
+
+CCpResource "SlideShow/Dolice Graphics/El.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/El.jpg
+s399003263.828559
+e399003263.856429
+r1
+xCpResource
+xSlideShow/Dolice Graphics/El.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/El.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/El.jpg7a39d47f4ec8b741^997fdc7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@163"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/El.jpg000000000080d041^752"CpResource "SlideShow/Dolice Graphics/El.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/El.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/El.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"0190252B-2820-4BA3-8594-AD3A6039DB76-
+
+CCpResource "SlideShow/Dolice Graphics/Frigg.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Frigg.jpg
+s399003263.842714
+e399003263.873999
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Frigg.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Frigg.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Frigg.jpg38d8d77f4ec8b741^df31e07f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Frigg.jpg000000000080d041^761"CpResource "SlideShow/Dolice Graphics/Frigg.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Frigg.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Frigg.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"A91934D1-038F-461C-AE36-C2E265D4F0BD-
+
+CCpResource "SlideShow/Dolice Graphics/Heimatlos.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Heimatlos.jpg
+s399003263.861501
+e399003263.897962
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Heimatlos.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Heimatlos.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Heimatlos.jpg9baddc7f4ec8b741^93e0e57f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Heimatlos.jpg000000000080d041^773"CpResource "SlideShow/Dolice Graphics/Heimatlos.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Heimatlos.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Heimatlos.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"1782DF89-8106-44B7-98B8-A1AD7FBBEE59-
+
+CCpResource "SlideShow/Dolice Graphics/Hera.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hera.jpg
+s399003263.872926
+e399003263.895381
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Hera.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hera.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hera.jpg5797df7f4ec8b741^5d37e57f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hera.jpg000000000080d041^758"CpResource "SlideShow/Dolice Graphics/Hera.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hera.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Hera.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"30710ECD-4226-4324-B032-1153EF9F2F9D-
+
+CCpResource "SlideShow/Dolice Graphics/Hesychasm.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hesychasm.jpg
+s399003263.875878
+e399003263.904722
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Hesychasm.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hesychasm.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hesychasm.jpg3963e07f4ec8b741^f29ae77f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@170"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hesychasm.jpg000000000080d041^773"CpResource "SlideShow/Dolice Graphics/Hesychasm.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hesychasm.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Hesychasm.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"E48F83B5-F558-4056-96A6-FB77D60E205B-
+
+CCpResource "SlideShow/Dolice Graphics/Hirume.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hirume.jpg
+s399003263.896698
+e399003263.924624
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Hirume.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hirume.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hirume.jpge6aee57f4ec8b741^70b3ec7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hirume.jpg000000000080d041^764"CpResource "SlideShow/Dolice Graphics/Hirume.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Hirume.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Hirume.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"87F3B388-DAB5-46C8-B2F6-B51E73D9A7DE-
+
+CCpResource "SlideShow/Dolice Graphics/Icon.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Icon.jpg
+s399003263.899327
+e399003263.964364
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Icon.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Icon.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Icon.jpg535be67f4ec8b741^c6dff67f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Icon.jpg000000000080d041^758"CpResource "SlideShow/Dolice Graphics/Icon.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Icon.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Icon.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"FACB7C26-0AA1-4CED-9FE2-1F046FAFDBAC-
+
+CCpResource "SlideShow/Dolice Graphics/Isthar.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Isthar.jpg
+s399003263.906131
+e399003263.934345
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Isthar.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Isthar.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Isthar.jpgdc0fe87f4ec8b741^b630ef7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Isthar.jpg000000000080d041^764"CpResource "SlideShow/Dolice Graphics/Isthar.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Isthar.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Isthar.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"D4051195-BE1E-4676-9A19-FD397C95E735-
+
+CCpResource "SlideShow/Dolice Graphics/Lilit.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Lilit.jpg
+s399003263.925975
+e399003263.966344
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Lilit.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Lilit.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Lilit.jpg992ded7f4ec8b741^8462f77f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Lilit.jpg000000000080d041^761"CpResource "SlideShow/Dolice Graphics/Lilit.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Lilit.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Lilit.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"BB977DAC-DF68-4D25-A25A-F4BFB3CEA175-
+
+CCpResource "SlideShow/Dolice Graphics/Loki.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Loki.jpg
+s399003263.935799
+e399003263.960712
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Loki.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Loki.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Loki.jpgd1b1ef7f4ec8b741^91f0f57f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Loki.jpg000000000080d041^758"CpResource "SlideShow/Dolice Graphics/Loki.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Loki.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Loki.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"F5324B84-C372-405A-95C8-F53839DDF80C-
+
+CCpResource "SlideShow/Dolice Graphics/Maldoror.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Maldoror.jpg
+s399003263.962044
+e399003263.988254
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Maldoror.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Maldoror.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Maldoror.jpg355ef67f4ec8b741^f4f9fc7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@169"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Maldoror.jpg000000000080d041^770"CpResource "SlideShow/Dolice Graphics/Maldoror.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Maldoror.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Maldoror.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"92F7B5AB-08D1-4CBC-915B-0C7DEC94E644-
+
+CCpResource "SlideShow/Dolice Graphics/MariaMagdalena.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/MariaMagdalena.jpg
+s399003263.965634
+e399003263.997566
+r1
+xCpResource
+xSlideShow/Dolice Graphics/MariaMagdalena.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/MariaMagdalena.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/MariaMagdalena.jpgfd4af77f4ec8b741^016dff7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@175"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/MariaMagdalena.jpg000000000080d041^788"CpResource "SlideShow/Dolice Graphics/MariaMagdalena.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/MariaMagdalena.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/MariaMagdalena.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"69212F7C-09F1-4DC9-B50D-34353FC24347-
+
+CCpResource "SlideShow/Dolice Graphics/Nyx.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Nyx.jpg
+s399003263.967732
+e399003263.994044
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Nyx.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Nyx.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Nyx.jpg4ce3f77f4ec8b741^8d7cfe7f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Nyx.jpg000000000080d041^755"CpResource "SlideShow/Dolice Graphics/Nyx.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Nyx.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Nyx.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"53B550F1-40CA-4855-A49E-DFA2643FBA0E-
+
+CCpResource "SlideShow/Dolice Graphics/Pandora.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Pandora.jpg
+s399003263.998909
+e399003264.020212
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Pandora.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Pandora.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Pandora.jpg5ed7ff7f4ec8b741^1f6805804ec8b741^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Pandora.jpg000000000080d041^767"CpResource "SlideShow/Dolice Graphics/Pandora.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Pandora.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Pandora.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"6ED2391C-1D60-48A8-B666-0BA852E1D888-
+
+CCpResource "SlideShow/Dolice Graphics/Rain.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Rain.jpg
+s399003264.021829
+e399003264.037855
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Rain.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Rain.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Rain.jpgeeb405804ec8b741^3fc509804ec8b741^---0#0#0#-19%DVTDocumentLocation2@165"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Rain.jpg000000000080d041^758"CpResource "SlideShow/Dolice Graphics/Rain.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Rain.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Rain.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"07D53982-4043-4D45-9467-06D4B7F6B775-
+
+CCpResource "SlideShow/Dolice Graphics/Sarah.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Sarah.jpg
+s399003264.047346
+e399003264.077090
+r1
+xCpResource
+xSlideShow/Dolice Graphics/Sarah.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Sarah.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Sarah.jpg39440c804ec8b741^00ca13804ec8b741^---0#0#0#-19%DVTDocumentLocation2@166"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Sarah.jpg000000000080d041^761"CpResource "SlideShow/Dolice Graphics/Sarah.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Sarah.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/Sarah.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"85C7D86A-65A0-4C39-832F-5257B3A88DE5-
+
+CCpResource "SlideShow/Dolice Graphics/cintaamaNicakra.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/cintaamaNicakra.jpg
+s399003263.811389
+e399003263.824878
+r1
+xCpResource
+xSlideShow/Dolice Graphics/cintaamaNicakra.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/cintaamaNicakra.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/cintaamaNicakra.jpg0ddecf7f4ec8b741^3e40d37f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@176"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/cintaamaNicakra.jpg000000000080d041^791"CpResource "SlideShow/Dolice Graphics/cintaamaNicakra.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/cintaamaNicakra.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/cintaamaNicakra.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"D0911654-2715-4B40-A276-6F7E419E0118-
+
+CCpResource "SlideShow/Dolice Graphics/samanta-bhadra.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/samanta-bhadra.jpg
+s399003264.039239
+e399003264.045138
+r1
+xCpResource
+xSlideShow/Dolice Graphics/samanta-bhadra.jpg
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/samanta-bhadra.jpg
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/samanta-bhadra.jpg1b2a0a804ec8b741^828d0b804ec8b741^---0#0#0#-19%DVTDocumentLocation2@175"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/samanta-bhadra.jpg000000000080d041^788"CpResource "SlideShow/Dolice Graphics/samanta-bhadra.jpg" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/samanta-bhadra.jpg    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/Dolice Graphics/samanta-bhadra.jpg" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"8627028B-58AD-48E8-91A4-65548A2FA660-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/ResourceRules.plist
+s399003261.966776
+e399003261.973382
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xDerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Copy DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/ResourceRules.plistabd1f77d4ec8b741^54c4fd7d4ec8b741^---0#0#0#-19%DVTDocumentLocation2@176"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/ResourceRules.plist000000000080d041^864"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/ResourceRules.plist    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"D7B9328D-3E70-416B-A897-042978395DAE-
+
+CGenerateDSYMFile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app.dSYM /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/SlideShow
+s399003263.470587
+e399003263.526869
+r1
+xGenerateDSYMFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app.dSYM
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/SlideShow
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Generate /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app.dSYM0f9b787f4ec8b741^c6df867f4ec8b741^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app.dSYM000000000080d041^834"GenerateDSYMFile DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app.dSYM DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/SlideShow    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/SlideShow -o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app.dSYM36"D01D78C8-B37D-4CA7-880F-8D0D3D35A801-
+
+CLd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/SlideShow normal armv7
+s399003263.246712
+e399003263.464050
+r1
+xLd
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/SlideShow
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Link /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/SlideShow0a4c3f7f4ec8b741^a7cb767f4ec8b741^---0#0#0#--1388"Ld DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/SlideShow normal armv7    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos -F/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos -filelist /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/Objects-normal/armv7/SlideShow.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/SlideShow36"B03F8294-4E29-411F-99A0-92089A863EC6-
+
+CProcessInfoPlistFile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Info.plist SlideShow/SlideShow-Info.plist
+s399003261.966761
+e399003261.973527
+r1
+xProcessInfoPlistFile
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Info.plist
+xSlideShow/SlideShow-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process SlideShow/SlideShow-Info.plist79cdf77d4ec8b741^32c8fd7d4ec8b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/SlideShow-Info.plist0000000000000000^1010"ProcessInfoPlistFile DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Info.plist SlideShow/SlideShow-Info.plist    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SlideShow/SlideShow-Info.plist -genpkginfo /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/ResourceRules.plist -o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/Info.plist36"A705AFB8-5F48-41D4-AF22-B6A8E06E23E3-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/PrecompiledHeaders/SlideShow-Prefix-gvlyooharqzmtwgsankhgbamuwvi/SlideShow-Prefix.pch.pth SlideShow/SlideShow-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s399003261.982873
+e399003262.940988
+r1
+xProcessPCH
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/PrecompiledHeaders/SlideShow-Prefix-gvlyooharqzmtwgsankhgbamuwvi/SlideShow-Prefix.pch.pth
+xSlideShow/SlideShow-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile SlideShow/SlideShow-Prefix.pch73dafb7d4ec8b741^47e3f07e4ec8b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/SlideShow-Prefix.pch0000000000000000^4087"ProcessPCH DerivedData/SlideShow/Build/Intermediates/PrecompiledHeaders/SlideShow-Prefix-gvlyooharqzmtwgsankhgbamuwvi/SlideShow-Prefix.pch.pth SlideShow/SlideShow-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-generated-files.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-own-target-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-all-target-headers.hmap -iquote /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow-project-headers.hmap -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/DerivedSources/armv7 -I/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/DerivedSources -F/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/PrecompiledHeaders/SlideShow-Prefix-gvlyooharqzmtwgsankhgbamuwvi/SlideShow-Prefix.pch.dia -c /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/SlideShow/SlideShow-Prefix.pch -o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/PrecompiledHeaders/SlideShow-Prefix-gvlyooharqzmtwgsankhgbamuwvi/SlideShow-Prefix.pch.pth -MMD -MT dependencies -MF /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/PrecompiledHeaders/SlideShow-Prefix-gvlyooharqzmtwgsankhgbamuwvi/SlideShow-Prefix.pch.d36"F036844F-9EB1-4CD6-AB16-FF3588798CA2-
+
+CProcessPCH /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Index/PrecompiledHeaders/SlideShow-Prefix-ddinbknhvjctkweiavurzsgofomb_ast/SlideShow-Prefix.pch.pth SlideShow/SlideShow-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/embedded.mobileprovision
+s399003264.795543
+e399003264.799287
+r1
+xProcessProductPackaging
+x/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection237"ProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/embedded.mobileprovision75cacb804ec8b741^919ccc804ec8b741^---0#0#0#-19%DVTDocumentLocation2@181"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/embedded.mobileprovision0000000000000000^836"ProcessProductPackaging "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/embedded.mobileprovision    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/newsuzukihiromasa/Library/MobileDevice/Provisioning Profiles/EA0C47AC-0540-45FD-A882-C289BDFD862D.mobileprovision" -o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app/embedded.mobileprovision36"CCF759DD-CECA-419B-808C-1B0F61CD5F0A-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow.xcent
+s399003264.826370
+e399003264.850589
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection249"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow.xcentc9afd3804ec8b741^b8ccd9804ec8b741^---0#0#0#-19%DVTDocumentLocation2@195"file://localhost/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow.xcent000000000080d041^886"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow.xcent    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Intermediates/SlideShow.build/Debug-iphoneos/SlideShow.build/SlideShow.xcent36"1CF0AFBE-47A3-4981-9DE5-425E2F3C8739-
+
+CTouch /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app
+s399003264.807528
+e399003264.818574
+r1
+xTouch
+x/Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Touch /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app17d5ce804ec8b741^9b8dd1804ec8b741^---0#0#0#--505"Touch DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app    cd /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/newsuzukihiromasa/Desktop/cocos2dx/objc-slide-show-master/SlideShow/DerivedData/SlideShow/Build/Products/Debug-iphoneos/SlideShow.app36"28D76152-5E9C-46E4-8627-25FB1A72C860-
+
